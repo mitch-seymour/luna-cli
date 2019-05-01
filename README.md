@@ -34,7 +34,7 @@ Example:
 com.example:ksql-udf-sentiment-analysis:0.2.0
 ```
 
-The CLI will then be able to find your artifact by searchin Maven whenever a user wants to search for or install your artifact.
+The CLI will then be able to find your artifact by searching Maven whenever a user wants tries to search for or install your artifact.
 
 
 # Other ideas for how this could work
