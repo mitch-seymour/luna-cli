@@ -25,7 +25,7 @@ $ ./luna install dialogflow /some/path
 Upload your UDF to Maven Central using the following naming convention:
 
 ```bash
-<your-package:ksql-udf-<udf-name>:<version>
+<your-package>:ksql-udf-<udf-name>:<version>
 ```
 
 Example:
